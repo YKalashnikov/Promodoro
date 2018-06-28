@@ -3,4 +3,5 @@
 <img align="center" src="https://github.com/YKalashnikov/Promodoro/blob/gh-pages/promodoro.png"/>
 <h1 align="center">What is it?</h1>
 <h2 align="center">Promodoro</h2>
+<h5 align="center">t’s a timer which reminds users when to take a break       </h5>
 <p align="center">CSS, JavaScript</p> 
